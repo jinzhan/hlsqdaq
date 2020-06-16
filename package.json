@@ -1,0 +1,19 @@
+{
+  "name": "huo-luan-shi-qi-de-ai-qing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "docsify init docs",
+    "serve": "docsify serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.5.1",
+    "docsify-cli": "^4.4.0"
+  }
+}
